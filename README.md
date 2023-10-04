@@ -1,6 +1,7 @@
-### Hi, i'm Marek Setikovský
+### Hi, I’m Marek Setikovský
 
 - 🌱 I’m currently learning C#
+- 🏫 I’m student from Prague
 
 <!--
 **Chlomek/Chlomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
